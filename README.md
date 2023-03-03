@@ -9,7 +9,7 @@
                solutions for clients in a variety of industries.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebyouchaka&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebyouchaka)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebyouchaka)](https://github.com/Nebyouchaka/github-readme-stats)
 
 ## Most usable Software technology in my codes
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,java)](https://skills.thijs.gg)
