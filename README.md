@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
                Hello! My name is Nebyou T. Chaka, and I'm a software engineer with expertise in cybersecurity and
                full-stack development. I received my degree in Cybersecurity from Gwinnett Technical College, 
                where I developed a deep understanding of computer systems and security practices. I further 
@@ -7,7 +7,6 @@
                industry tools and technologies and developed expertise in building scalable and efficient applications. 
                With my broad skillset and experience, I am excited to tackle complex problems and create innovative 
                solutions for clients in a variety of industries.
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nebyouchaka&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebyouchaka)](https://github.com/anuraghazra/github-readme-stats)
